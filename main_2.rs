@@ -21,6 +21,6 @@ fn main_2() {
   let second = a[1];
   println!("The value of first is: {}", first); 
   println!("The value of second is: {}", second); 
-  // Here discussed about different types of data types
+  
    
 }
