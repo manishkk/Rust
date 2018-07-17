@@ -1,7 +1,7 @@
 fn main_3() {
     let number = 130;
 
-    //is-else condition
+    //if-else condition
     if number < 50 {
         println!("Number is less then 50");
     } else {
